@@ -1,0 +1,11 @@
+{
+  "name": "rq2e.com",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^2.1.1"
+  }
+}
